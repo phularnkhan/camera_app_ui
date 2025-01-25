@@ -73,6 +73,7 @@ flutter:
      - assets/screen.png
      - assets/frame9.png
      - assets/image.png
+     - assets/full.png
 
   # An image asset can refer to one or more resolution-specific "variants", see
   # https://flutter.dev/to/resolution-aware-images
